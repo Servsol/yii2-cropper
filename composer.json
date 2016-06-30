@@ -2,12 +2,14 @@
     "name": "servsol/yii2-cropper",
     "description": "Extension to crop images",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
+    "homepage": "https://github.com/Servsol/yii2-cropper",
+    "keywords": ["yii2","extension","cropper","image","media"],
     "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Servsol",
-            "email": "info@servsol.co.za"
+            "email": "info@servsol.co.za",
+            "homepage": "http://www.servsol.co.za"
         }
     ],
     "require": {
